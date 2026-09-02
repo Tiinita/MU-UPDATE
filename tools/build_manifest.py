@@ -28,6 +28,7 @@ DEFAULT_EXCLUDES = {
     ".gitignore",
     "build.bat",
     "main.py",
+    "changed_files.txt",
 }
 
 
