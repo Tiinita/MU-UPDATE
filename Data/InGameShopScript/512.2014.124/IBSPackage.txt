@@ -1,0 +1,350 @@
+27@8@492@[Discount] Gold Channel Ticket@170@1000000@This is an exclusive ticket to enter Gold Channel.#Limited time only! 7 day & 30 day Gold Channel Ticket are on sale at discounted price.#7 day Gold Channel - 20% Discount      #30 day Gold Channel - 30% Discount@@182@184@20111206234000@20151207164000@177@1@W Coin@W Coin@181@200@0@585|@6780@1@4@672|673|674|675|@0@508@669
+29@4@121@Seal of Sustenance@170@80@Prevents experience to be gained.#Applicable to Master Level.#If you were using a seal already, the previous seal effects will disappear@@182@184@20100526190000@20140527120000@177@1@W Coin@W Coin@181@200@0@11|@6701@1@3@17|18|19|@0@508@669
+29@5@75@Seal of Healing@170@120@*Exp gain increase#*Auto life increase at 5%#*Not applicable to Master Level.#*You may use it with Seal of Ascension or Seal of Wealth#*You cannot use Seal of Divinity at the same time.@@182@184@20100526192000@20140527122000@177@1@W Coin@W Coin@181@200@0@38|@6718@1@2@62|63|@0@508@669
+29@8@7@SD Boost Aura@170@120@Max SD Increase level * 10#*You cannot use AG Boost Aura at the same time.#120 W Coin - 1Day#600 W Coin - 7Day@@182@184@20100526181000@20140527111000@177@1@W Coin@W Coin@181@200@0@74|@6761@1@2@125|126|@0@508@669
+29@10@91@Scroll of Protection@170@100@Increases Defense by 60.#This item can be used with Quickness,Wrath,Wizardry,Mana and Health scroll.##You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@184@20100526193000@20140527123000@177@1@W Coin@W Coin@181@200@0@26|@7241@1@2@43|44|@0@508@669
+29@11@93@Scroll of Quickness@170@150@Increases Attack Speed by 15.#This item can be used with Protection,Wrath,Wizardry,Mana and Health scroll.##You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@184@20100526194000@20140527124000@177@1@W Coin@W Coin@181@200@0@25|@7240@1@2@41|42|@0@508@669
+29@12@89@Scroll of Wrath@170@150@Increases Attack Power by 30#This item can be used with Quickness,Protection,Wizardry,Mana and Health scroll.##You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@184@20100526193000@20140527123000@177@1@W Coin@W Coin@181@200@0@27|@7242@1@2@45|46|@0@508@669
+29@13@87@Scroll of Wizardry@170@150@Increases Wizardry by 30.#This item can be used with Quickness,Protection,Wrath,Mana and Health scroll.##You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@184@20100526193000@20140527123000@177@1@W Coin@W Coin@181@200@0@28|@7243@1@2@47|48|@0@508@669
+29@14@77@Scroll of Strengthener@170@150@Increases Excellent Damage by 20%.#You cannot use Scroll of Battle at the same time.@@182@184@20100526192000@20140527122000@177@1@W Coin@W Coin@181@200@0@37|@7266@1@2@60|61|@0@508@669
+29@15@79@Scroll of Battle@170@150@Increases Critical Damage by 20%#You cannot use Scroll of Strengthener at the same time.@@182@184@20100526192000@20140527122000@177@1@W Coin@W Coin@181@200@0@36|@7265@1@2@58|59|@0@508@669
+29@16@83@Scroll of Mana@170@100@Increases MP  by 300. #This item can be used with Quickness,Protection,Wrath,Wizardry and Health scroll.##You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@184@20100526193000@20140527123000@177@1@W Coin@W Coin@181@200@0@30|@7245@1@2@51|52|@0@508@669
+29@17@85@Scroll of Health@170@100@Increases HP by 200.#This item can be used with Quickness,Protection,Wrath,Wizardry and Mana scroll.##You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@184@20100526193000@20140527123000@177@1@W Coin@W Coin@181@200@0@29|@7244@1@2@49|50|@0@508@669
+29@19@542@Contract of Fury@170@100@Contract of Fury#- Damage +5%#- Can be used simultaneously with other contract buff items#- Cannot be used simultaneously with Fury/Mana/Defense/Enhancement/Combat scroll buff items#- Same buff items can be accumulated for up to 50 days@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@903|@10623@1@2@1114|1115|@0@508@669
+29@20@543@Contract of Gale@170@100@Contract of Gale#- Attack Speed +20#- Can be used simultaneously with other contract buff items#- Cannot be used simultaneously with Fury/Mana/Defense/Enhancement/Combat scroll buff items#- Same buff items can be accumulated for up to 50 days@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@904|@10624@1@2@1117|1118|@0@508@669
+29@21@700@Elixir of Strength@170@100@Buff#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1061|@7246@1@2@1440|1441|@0@508@669
+29@22@701@Elixir of Agility@170@100@Buff#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1062|@7247@1@2@1443|1444|@0@508@669
+29@23@702@Elixir of Health@170@100@Buff#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1063|@7248@1@2@1446|1447|@0@508@669
+29@24@703@Elixir of Energy@170@100@Buff#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1064|@7249@1@2@1449|1450|@0@508@669
+29@25@704@Elixir of Control@170@100@Buff#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1065|@7250@1@2@1452|1453|@0@508@669
+29@28@705@Scroll Master of Defense@170@150@Buff#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1066|@7393@1@2@1455|1456|@0@508@669
+29@29@706@Scroll Master of Wizardry@170@150@Buff#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1067|@7394@1@2@1458|1459|@0@508@669
+29@30@707@Scroll Master of Health@170@150@Buff#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1068|@7395@1@2@1461|1462|@0@508@669
+29@31@708@Scroll Master of Mana@170@150@Buff#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1069|@7396@1@2@1464|1465|@0@508@669
+29@32@709@Scroll Master of Wrath@170@150@Buff#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1070|@7397@1@2@1467|1468|@0@508@669
+29@33@710@Scroll Master of Recovery@170@150@Buff#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1071|@7398@1@2@1470|1471|@0@508@669
+29@34@711@Scroll Master of Battle@170@150@Buff#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1072|@7399@1@2@1473|1474|@0@508@669
+29@35@712@Master of Strenghener@170@150@Buff@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1073|@7400@1@2@1476|1477|@0@508@669
+30@1@31@Pet Panda@170@200@EXP 50% increase#collects Zen around #Increase defensive skill + 50#150 W Coin - 1Day#700 W Coin - 7Day@@182@184@20100526184000@20140527114000@177@1@W Coin@W Coin@181@200@0@60|@6736@1@2@99|100|@0@508@669
+30@2@29@Pet Skeleton@170@70@Surrounding Zen is automatically collected#Attack power/Wizardry/Curse spell 20% increase#- Attack speed increase +10#- Exp 30% increase #-Wear it with Skeleton Transformation Ring and get 30% extra EXP#100 W Coin - 1Day#700 W Coin - 7Day@@182@184@20100526184000@20140527114000@177@1@W Coin@W Coin@181@200@0@61|@6779@1@2@101|102|@0@508@669
+30@3@11@Pet Unicorn@170@70@Collects zen automatically.#Zen increase +50%#Defensibility + 50#*Minimum Level:28#150 W Coin - 1Day#700 W Coin - 7Day@@182@184@20100526181000@20140527111000@177@1@W Coin@W Coin@181@200@0@72|@6762@1@2@121|122|@0@508@669
+30@4@103@Demon@170@70@Increases Attack Power and Wizardry by 40%.#Increases Attack Speed by 10.#1Day - 100 W Coin#7Day - 500 W Coin#30Day - 1400 W Coin@@182@184@20100526194000@20140527124000@177@1@W Coin@W Coin@181@200@0@20|@6720@1@3@31|32|33|@0@508@669
+30@5@101@Spirit of Guardian@170@70@Absorbs monster`s damage to your character by 30% #Increases Maximum Life by 50#1Day - 100 W Coin#7Day - 500 W Coin#30Day - 1400 W Coin@@182@184@20100526194000@20140527124000@177@1@W Coin@W Coin@181@200@0@21|@6721@1@3@34|35|36|@0@508@669
+31@2@33@Skeleton Transformation Ring@170@100@Attack power +40#Wizardry increase +40#Curse spell +40#Wear it with Pet Skeleton and get 30% extra EXP #100 W Coin - 1Day#500 W Coin - 7Days@@182@184@20100526184000@20140527114000@177@1@W Coin@W Coin@181@200@0@59|@6778@1@2@97|98|@0@508@669
+31@3@35@Wizard Ring@170@100@Attack(Wizardry) power +10%#Attack speed increase +10#100 W Coin - 1Day#500 W Coin - 7Day@@182@184@20100526184000@20140527114000@177@1@W Coin@W Coin@181@200@0@58|@6676@1@2@95|96|@0@508@669
+31@4@148@Critical Ring of Wizard@170@130@Wizardry + 15%#Attack power +15%#Attack(Wizardry)Speed +10#130 W Coin - 1Day#600 W Coin - 7Day@@182@184@20100803191000@20140804121000@177@1@W Coin@W Coin@181@200@0@71|@6763@1@2@119|120|@0@508@669
+31@5@693@Blessed Decoration Ring@170@130@Attack power +%#130 W Coin - 1Day#600 W Coin - 7Day@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1054|@6826@1@2@1420|1421|@0@508@669
+31@6@694@Decoration Ring@170@130@Attack power +%#130 W Coin - 1Day#600 W Coin - 7Day@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1055|@6825@1@2@1423|1424|@0@508@669
+31@7@695@Pink Panda Ring@170@90@Transform into Panda#Zen increase 50%#100 W Coin - 1Day#500 W Coin - 7Day@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1056|@6734@1@2@1426|1427|@0@508@669
+31@10@696@Talisman of Ascension III@170@300@EXP MASTER#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1057|@6835@1@2@1429|1430|@0@508@669
+31@11@697@Talisman of Ascension II@170@200@EXP MASTER#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1058|@6834@1@2@1432|1433|@0@508@669
+31@12@698@Talisman of Ascension I@170@100@EXP MASTER@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1059|@6833@1@2@1435|1436|@0@508@669
+31@13@953@Necklace of Agony@170@5000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1776|@6827@1@1@2241|@0@508@669
+31@14@954@Solid Symbol@170@5000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1777|@6828@1@1@2243|@0@508@669
+31@15@955@Ring of Ultimatum@170@5000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1778|@6829@1@1@2245|@0@508@669
+31@16@956@Ring of Block@170@5000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1779|@6830@1@1@2247|@0@508@669
+31@17@957@Protection Ring@170@5000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1780|@6831@1@1@2249|@0@508@669
+31@18@958@Protection Ring@170@5000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1781|@6832@1@1@2251|@0@508@669
+32@8@528@[Discount] Gold Channel Ticket@170@1000000@NO DISPONIBLE#@0@183@185@0@0@177@1@W Coin@W Coin@181@200@0@894|@6780@1@4@1095|1096|1097|1098|@0@508@669
+57@1@713@Little Warrior's Cloak@170@0@Wings#@@182@184@0@0@177@1@GP@GP@181@200@0@1074|@6279@17@1@1479|@0@0@669
+57@2@714@Small Wings of Satan@170@0@Wings#@@182@184@0@0@177@1@GP@GP@181@200@0@1075|@6278@17@1@1481|@0@0@669
+57@3@715@Small Wings of Heaven@170@0@Wings#@@182@184@0@0@177@1@GP@GP@181@200@0@1076|@6277@17@1@1483|@0@0@669
+57@4@716@Small Wings of Elf@170@0@Wings#@@182@184@0@0@177@1@GP@GP@181@200@0@1077|@6276@17@1@1485|@0@0@669
+57@5@717@Small Wing of Curse@170@0@Wings#@@182@184@0@0@177@1@GP@GP@181@200@0@1078|@6275@17@1@1487|@0@0@669
+57@6@718@Small Cape of Lord@170@0@Wings@@182@184@0@0@177@1@GP@GP@181@200@0@1079|@6274@17@1@1489|@0@0@669
+57@7@772@Small White Cloak@170@0@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1216|@6298@17@1@1653|@0@0@669
+57@8@773@Small Iron Cloak@170@0@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1217|@6316@17@1@1655|@0@0@669
+57@9@774@Small Cape of Lord@170@0@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1218|@6274@17@1@1657|@0@0@669
+57@10@794@Pet Panda@170@100@EXP 50% increase#collects Zen around #Increase defensive skill + 50#150 W Coin - 1Day#700 W Coin - 7Day@@182@184@0@0@177@1@GP@GP@181@200@0@1334|@6736@17@2@1774|1775|@0@0@669
+57@11@795@Pink Panda Ring@170@100@Transform into Panda#Zen increase 50%#100 W Coin - 1Day#700 W Coin - 7Day@@182@184@0@0@177@1@GP@GP@181@200@0@1335|@6734@17@2@1777|1778|@0@0@669
+57@12@796@Talisman of Ascension III@170@3000@EXP MASTER#@@182@184@0@0@177@1@GP@GP@181@200@0@1336|@6835@17@2@1780|1781|@0@0@669
+57@13@797@Talisman of Ascension II@170@2000@EXP MASTER#@@182@184@0@0@177@1@GP@GP@181@200@0@1337|@6834@17@2@1783|1784|@0@0@669
+57@14@798@Talisman of Ascension I@170@1000@EXP MASTER@@182@184@0@0@177@1@GP@GP@181@200@0@1338|@6833@17@2@1786|1787|@0@0@669
+59@3@539@Gold VIP@170@1000000@NO DISPONIBLE#@@183@185@0@0@177@1@W Coin@W Coin@181@200@0@900|@6780@1@1@1108|@0@508@669
+59@4@540@Platinum VIP@170@1000000@NO DISPONIBLE#@@183@185@0@0@177@1@W Coin@W Coin@181@200@0@901|@6780@1@1@1110|@0@508@669
+65@1@548@Temple Guard Elixir@170@25000@Armas Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@909|@2719@1@1@1130|@0@508@669
+65@2@549@Temple Guard Wand@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@910|@2718@1@1@1132|@0@508@669
+65@3@550@Temple Guard White Wizard Staff@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@911|@2717@1@1@1134|@0@508@669
+65@4@551@Temple Guard Magic Staff@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@912|@2716@1@1@1136|@0@508@669
+65@5@552@Temple Guard Orb@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@913|@2715@1@1@1138|@0@508@669
+65@6@553@Temple Guard Magic Book@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@914|@2714@1@1@1140|@0@508@669
+65@7@554@Temple Guard's Book@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@915|@2713@1@1@1142|@0@508@669
+65@8@555@Temple Guard Stick@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@916|@2712@1@1@1144|@0@508@669
+65@9@556@Temple Guard Wizard Staff@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@917|@2711@1@1@1146|@0@508@669
+65@10@639@Temple Guard Bow@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1000|@2118@1@1@1312|@0@508@669
+65@11@640@Temple Guard Quiver@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1001|@2119@1@1@1314|@0@508@669
+65@12@641@Temple Guard Magic Gun@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1002|@2117@1@1@1316|@0@508@669
+65@13@642@Temple Guard Lance@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1003|@1571@1@1@1318|@0@508@669
+65@14@647@Temple Guard Hammer@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1008|@1094@1@1@1328|@0@508@669
+65@15@652@Temple Guard Scepter@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1013|@1076@1@1@1338|@0@508@669
+65@16@653@Temple Guard Rune Mace@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1014|@1077@1@1@1340|@0@508@669
+65@19@662@Temple Guard Blade@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1023|@133@1@1@1358|@0@508@669
+65@20@663@Temple Guard Magic Two-Hand Sword@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1024|@132@1@1@1360|@0@508@669
+65@21@664@Temple Guard Short Sword@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1025|@131@1@1@1362|@0@508@669
+65@22@665@Temple Guard Claw@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1026|@130@1@1@1364|@0@508@669
+65@23@666@Temple Guard Magic Sword@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1027|@129@1@1@1366|@0@508@669
+65@24@667@Temple Guard Sword@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1028|@128@1@1@1368|@0@508@669
+65@25@692@Temple Guard Faith Sword@170@25000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1053|@134@1@1@1418|@0@508@669
+66@1@557@Lightning Elixir@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@918|@2702@1@1@1148|@0@508@669
+66@2@558@Lightning Wand@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@919|@2683@1@1@1150|@0@508@669
+66@3@559@Lightning Staff@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@920|@2704@1@1@1152|@0@508@669
+66@4@560@Lightning Orb@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@921|@2708@1@1@1154|@0@508@669
+66@5@561@Lightning Magic Book@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@922|@2707@1@1@1156|@0@508@669
+66@6@562@Lightning Book@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@923|@2706@1@1@1158|@0@508@669
+66@7@563@Lightning Stick@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@924|@2705@1@1@1160|@0@508@669
+66@10@636@Lightning Bow@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@997|@2115@1@1@1306|@0@508@669
+66@11@637@Lightning Quiver@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@998|@2116@1@1@1308|@0@508@669
+66@12@638@Lightning Magic Gun@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@999|@2114@1@1@1310|@0@508@669
+66@13@643@Lightning Lance@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1004|@1570@1@1@1320|@0@508@669
+66@14@648@Lightning Hammer@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1009|@1093@1@1@1330|@0@508@669
+66@15@654@Lightning Scepter@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1015|@1074@1@1@1342|@0@508@669
+66@16@655@Lightning Rune Mace@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1016|@1075@1@1@1344|@0@508@669
+66@19@668@Lightning Blade@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1029|@127@1@1@1370|@0@508@669
+66@20@669@Lightning Magic Two-Hand Sword@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1030|@126@1@1@1372|@0@508@669
+66@21@670@Lightning Short Sword@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1031|@125@1@1@1374|@0@508@669
+66@22@671@Lightning Claws@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1032|@124@1@1@1376|@0@508@669
+66@23@672@Lightning Magic Sword@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1033|@123@1@1@1378|@0@508@669
+66@24@673@Lightning Sword@170@20000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1034|@122@1@1@1380|@0@508@669
+67@1@564@Apocalypse Elixir@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@925|@2701@1@1@1162|@0@508@669
+67@2@565@Apocalypse Wand@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@926|@2682@1@1@1164|@0@508@669
+67@3@566@Apocalypse Staff@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@927|@2664@1@1@1166|@0@508@669
+67@4@567@Apocalypse Orb@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@928|@2668@1@1@1168|@0@508@669
+67@5@568@Apocalypse Magic Book@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@929|@2667@1@1@1170|@0@508@669
+67@6@569@Apocalypse Book@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@930|@2666@1@1@1172|@0@508@669
+67@7@570@Apocalypse Stick@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@931|@2665@1@1@1174|@0@508@669
+67@10@633@Apocalypse Bow@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@994|@2112@1@1@1300|@0@508@669
+67@11@634@Apocalypse Quiver@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@995|@2113@1@1@1302|@0@508@669
+67@12@635@Apocalypse Magic Gun@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@996|@2111@1@1@1304|@0@508@669
+67@13@644@Apocalypse Lance@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1005|@1569@1@1@1322|@0@508@669
+67@14@649@Apocalypse Hammer@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1010|@1092@1@1@1332|@0@508@669
+67@15@656@Apocalypse Scepter@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1017|@1072@1@1@1346|@0@508@669
+67@16@657@Apocalypse Rune Mace@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1018|@1073@1@1@1348|@0@508@669
+67@19@674@Apocalypse Blade@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1035|@121@1@1@1382|@0@508@669
+67@20@675@Apocalypse Magic Two-Handed Sword@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1036|@120@1@1@1384|@0@508@669
+67@21@676@Apocalypse Short Sword@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1037|@119@1@1@1386|@0@508@669
+67@22@677@Apocalypse Claws@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1038|@118@1@1@1388|@0@508@669
+67@23@678@Apocalypse Magic Sword@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1039|@117@1@1@1390|@0@508@669
+67@24@679@Apocalypse Sword@170@15000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1040|@116@1@1@1392|@0@508@669
+68@1@571@Brilliant Elixir@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@932|@2700@1@1@1176|@0@508@669
+68@2@572@Brilliant Wand@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@933|@2681@1@1@1178|@0@508@669
+68@3@573@Brilliant Staff@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@934|@2659@1@1@1180|@0@508@669
+68@4@574@Brilliant Orb@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@935|@2663@1@1@1182|@0@508@669
+68@5@575@Brilliant Magic Book@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@936|@2662@1@1@1184|@0@508@669
+68@6@576@Brilliant Book@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@937|@2661@1@1@1186|@0@508@669
+68@7@577@Brilliant Stick@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@938|@2660@1@1@1188|@0@508@669
+68@10@627@Brilliant Bow@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@988|@2109@1@1@1288|@0@508@669
+68@11@628@Brilliant Quiver@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@989|@2110@1@1@1290|@0@508@669
+68@12@629@Brilliant Magic Gun@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@990|@2108@1@1@1292|@0@508@669
+68@13@645@Brilliant Lance@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1006|@1568@1@1@1324|@0@508@669
+68@14@650@Brilliant Hammer@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1011|@1091@1@1@1334|@0@508@669
+68@15@658@Brilliant Scepter@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1019|@1070@1@1@1350|@0@508@669
+68@16@659@Brilliant Rune Mace@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1020|@1071@1@1@1352|@0@508@669
+68@19@680@Brilliant Blade@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1041|@112@1@1@1394|@0@508@669
+68@20@681@Brilliant Magic Two-Handed Sword@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1042|@100@1@1@1396|@0@508@669
+68@21@682@Brilliant Short Sword@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1043|@99@1@1@1398|@0@508@669
+68@22@683@Brilliant Claws@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1044|@98@1@1@1400|@0@508@669
+68@23@684@Brilliant Magic Sword@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1045|@97@1@1@1402|@0@508@669
+68@24@685@Brilliant Sword@170@12500@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1046|@96@1@1@1404|@0@508@669
+69@1@578@Manticore Elixir@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@939|@2699@1@1@1190|@0@508@669
+69@2@579@Manticore Wand@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@940|@2680@1@1@1192|@0@508@669
+69@3@580@Manticore Staff@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@941|@2655@1@1@1194|@0@508@669
+69@4@581@Manticore Orb@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@942|@2652@1@1@1196|@0@508@669
+69@5@582@Manticore Magic Book@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@943|@2639@1@1@1198|@0@508@669
+69@6@584@Manticore Book@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@945|@2657@1@1@1202|@0@508@669
+69@7@585@Manticore Stick@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@946|@2656@1@1@1204|@0@508@669
+69@10@630@Manticore Bow@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@991|@2106@1@1@1294|@0@508@669
+69@11@631@Manticore Quiver@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@992|@2107@1@1@1296|@0@508@669
+69@12@632@Manticore Magic Gun@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@993|@2102@1@1@1298|@0@508@669
+69@13@646@Manticore Lance@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1007|@1567@1@1@1326|@0@508@669
+69@14@651@Manticore Hammer@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1012|@1090@1@1@1336|@0@508@669
+69@15@660@Manticore Scepter@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1021|@1068@1@1@1354|@0@508@669
+69@16@661@Manticore Rune Mace@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1022|@1069@1@1@1356|@0@508@669
+69@19@686@Manticore Blade@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1047|@111@1@1@1406|@0@508@669
+69@20@687@Manticore Magic Two-Handed Sword@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1048|@95@1@1@1408|@0@508@669
+69@21@688@Manticore Short Sword@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1049|@88@1@1@1410|@0@508@669
+69@22@689@Manticore Claw@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1050|@87@1@1@1412|@0@508@669
+69@23@690@Manticore Magic Sword@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1051|@86@1@1@1414|@0@508@669
+69@24@691@Manticore Sword@170@8000@Armas Full Opc#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1052|@85@1@1@1416|@0@508@669
+70@1@591@Manticore Mage Shield@170@6000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@952|@3198@1@1@1216|@0@508@669
+70@2@595@Manticore Crusader Shield@170@6000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@956|@3180@1@1@1224|@0@508@669
+70@3@600@Manticore Rune Wizard Shield@170@6000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@961|@3165@1@1@1234|@0@508@669
+70@4@611@Manticore Lord Shield@170@6000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@972|@3148@1@1@1256|@0@508@669
+70@5@614@Manticore Lancer Shield@170@6000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@975|@3138@1@1@1262|@0@508@669
+70@6@617@Manticore Fairy Shield@170@6000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@978|@3128@1@1@1268|@0@508@669
+70@7@620@Manticore Shield@170@6000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@981|@3122@1@1@1274|@0@508@669
+71@1@586@Temple Guard Mage Shield@170@20000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@947|@3202@1@1@1206|@0@508@669
+71@2@587@Temple Guard Crusader Shield@170@20000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@948|@3184@1@1@1208|@0@508@669
+71@3@596@Temple Guard Rune Wizard Shield@170@20000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@957|@3169@1@1@1226|@0@508@669
+71@4@601@Temple Guard Lord Shield@170@20000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@962|@3158@1@1@1236|@0@508@669
+71@5@602@Temple Guard Lancer Shield@170@20000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@963|@3157@1@1@1238|@0@508@669
+71@6@603@Temple Guard Fairy Shield@170@20000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@964|@3156@1@1@1240|@0@508@669
+71@7@604@Temple Guard Shield@170@20000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@965|@3155@1@1@1242|@0@508@669
+72@1@588@Lightning Mage Shield@170@15000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@949|@3201@1@1@1210|@0@508@669
+72@2@592@Lightning Crusader Shield@170@15000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@953|@3183@1@1@1218|@0@508@669
+72@3@597@Lightning Rune Wizard Shield@170@15000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@958|@3168@1@1@1228|@0@508@669
+72@4@605@Lightning Lord Shield@170@15000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@966|@3154@1@1@1244|@0@508@669
+72@5@606@Lightning Lancer Shield@170@15000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@967|@3153@1@1@1246|@0@508@669
+72@6@607@Lightning Fairy Shield@170@15000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@968|@3152@1@1@1248|@0@508@669
+72@7@608@Lightning Shield@170@15000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@969|@3151@1@1@1250|@0@508@669
+73@1@589@Apocalypse Mage Shield@170@12500@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@950|@3200@1@1@1212|@0@508@669
+73@2@593@Apocalypse Crusader Shield@170@12500@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@954|@3182@1@1@1220|@0@508@669
+73@3@598@Apocalypse Rune Wizard Shield@170@12500@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@959|@3167@1@1@1230|@0@508@669
+73@4@609@Apocalypse Lord Shield@170@12500@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@970|@3150@1@1@1252|@0@508@669
+73@5@612@Apocalypse Lancer Shield@170@12500@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@973|@3140@1@1@1258|@0@508@669
+73@6@615@Apocalypse Fairy Shield@170@12500@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@976|@3130@1@1@1264|@0@508@669
+73@7@618@Apocalypse Shield@170@12500@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@979|@3141@1@1@1270|@0@508@669
+74@1@590@Brilliant Mage Shield@170@10000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@951|@3199@1@1@1214|@0@508@669
+74@2@594@Brilliant Crusader Shield@170@10000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@955|@3181@1@1@1222|@0@508@669
+74@3@599@Brilliant Rune Wizard Shield@170@10000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@960|@3166@1@1@1232|@0@508@669
+74@4@610@Brilliant Lord Shield@170@10000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@971|@3149@1@1@1254|@0@508@669
+74@5@613@Brilliant Lancer Shield@170@10000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@974|@3139@1@1@1260|@0@508@669
+74@6@616@Brilliant Fairy Shield@170@10000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@977|@3129@1@1@1266|@0@508@669
+74@7@619@Brilliant Shield@170@10000@Shield Full Opc@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@980|@3131@1@1@1272|@0@508@669
+75@1@699@Premium Pass@170@1000@Vale del Pase Premium#El uso del Vale del Pase Premium activa el acceso a las misiones del Pase Premium.#Tras completar las misiones correspondientes, podrás recibir las recompensas del Pase Premium según el nivel alcanzado.#Al finalizar el periodo del Pase de Temporada, el nivel del pase se reinicia y ya no podrás realizar misiones ni recibir recompensas.#El evento del Pase de Temporada cambia cada mes. Cuando se reinicia el periodo del evento del Pase de Temporada, expira el tiempo restante del Pase Premium utilizado anteriormente.#Asegúrate de consultar el periodo del Pase de Temporada antes de realizar la compra.@@182@184@0@0@177@1@GP@GP@181@200@0@1060|@10364@17@1@1438|@0@0@669
+75@2@733@Horn of Fenrir Normal@170@50000@By mounting Fenrir, strong extensive skill#Plasma Storm can be used.#Impaired Fenrir can be repaired by Jewel of Bless@@182@184@0@0@177@1@GP@GP@181@200@0@1094|@6693@17@1@1519|@0@0@669
+75@3@959@Goat Figurine@170@100000@@@182@184@0@0@177@1@GP@GP@181@200@0@1782|@6785@17@1@2253|@0@0@669
+75@4@960@Hawk Figurine@170@100000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1783|@6784@1@1@2255|@0@508@669
+75@5@961@Golden Oak Charm@170@100000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1784|@6788@1@1@2257|@0@508@669
+75@6@962@Pizza@170@100@@@182@184@0@0@177@1@GP@GP@181@200@0@1785|@7534@17@1@2259|@0@0@669
+75@7@963@Magic Backpack@170@100000@expandir inventario@@182@184@0@0@177@1@GP@GP@181@200@0@1786|@7330@17@1@2261|@0@0@669
+75@8@964@Vault Expansion Certificate@170@100000@expandir baul@@182@184@0@0@177@1@GP@GP@181@200@0@1787|@7331@17@1@2263|@0@0@669
+75@9@965@Scroll of Black Oblivion@170@2000@expandir baul@@182@184@0@0@177@1@GP@GP@181@200@0@1788|@7165@17@1@2265|@0@0@669
+75@10@966@Pink Panda Ring@170@1440@Transform into Panda#Zen increase 50%#100 W Coin - 1Day#500 W Coin - 7Day@@182@184@0@0@177@1@GP@GP@181@200@0@1789|@6734@17@2@2267|2268|@0@0@669
+75@11@967@Pet Panda@170@500@EXP 50% increase#collects Zen around #Increase defensive skill + 50#150 W Coin - 1Day#700 W Coin - 7Day@@182@184@0@0@177@1@GP@GP@181@200@0@1790|@6736@17@2@2270|2271|@0@0@669
+76@1@719@Wings of Darkness@170@1000@S2@@182@184@0@0@177@1@GP@GP@181@200@0@1080|@6150@17@1@1491|@0@0@669
+76@2@720@Wings of Dragon@170@1000@S2@@182@184@0@0@177@1@GP@GP@181@200@0@1081|@6149@17@1@1493|@0@0@669
+76@3@721@Wings of Spirit@170@1000@S2@@182@184@0@0@177@1@GP@GP@181@200@0@1082|@6147@17@1@1495|@0@0@669
+76@4@722@Cape of Fighter@170@1000@S2@@182@184@0@0@177@1@GP@GP@181@200@0@1083|@6193@17@1@1497|@0@0@669
+76@5@723@Cape of Lord@170@1000@S2@@182@184@0@0@177@1@GP@GP@181@200@0@1084|@6686@17@1@1499|@0@0@669
+76@6@724@Wings of Despair@170@1000@S2@@182@184@0@0@177@1@GP@GP@181@200@0@1085|@6186@17@1@1501|@0@0@669
+76@7@725@Wings of Soul@170@1000@S2@@182@184@0@0@177@1@GP@GP@181@200@0@1086|@6148@17@1@1503|@0@0@669
+76@8@760@Cloak of Limit@170@1000@S2@@182@184@0@0@177@1@GP@GP@181@200@0@1204|@6413@17@1@1629|@0@0@669
+76@9@761@Black Cloak@170@1000@S2@@182@184@0@0@177@1@GP@GP@181@200@0@1205|@6318@17@1@1631|@0@0@669
+76@10@762@Cloak of Innocence@170@1000@S2@@182@184@0@0@177@1@GP@GP@181@200@0@1206|@6300@17@1@1633|@0@0@669
+77@1@726@Wings of Storm@170@3000@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1087|@6180@17@1@1505|@0@0@669
+77@2@727@Wings of Dimension@170@3000@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1088|@6187@17@1@1507|@0@0@669
+77@3@728@Cape of Emperor@170@3000@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1089|@6184@17@1@1509|@0@0@669
+77@4@729@Wings of Illusion@170@3000@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1090|@6182@17@1@1511|@0@0@669
+77@5@730@Wings of Eternal@170@3000@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1091|@6181@17@1@1513|@0@0@669
+77@6@731@Cape of Overrule@170@3000@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1092|@6194@17@1@1515|@0@0@669
+77@7@732@Wings of Ruin@170@3000@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1093|@6183@17@1@1517|@0@0@669
+77@8@763@Cloak of Transcendence@170@3000@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1207|@6414@17@1@1635|@0@0@669
+77@9@764@Cloak of Death@170@3000@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1208|@6320@17@1@1637|@0@0@669
+77@10@765@Cloak of Brilliance@170@3000@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1209|@6302@17@1@1639|@0@0@669
+77@11@766@Cloak of Aspiration@170@3000@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1210|@10753@17@1@1641|@0@0@669
+77@12@767@Wings of Guardian@170@3000@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1211|@6338@17@1@1643|@0@0@669
+77@13@768@Wings of Disillusion@170@3000@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1212|@6611@17@1@1645|@0@0@669
+77@14@769@Wings of Silence@170@3000@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1213|@6616@17@1@1647|@0@0@669
+77@15@770@Wings of Hit@170@3000@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1214|@6633@17@1@1649|@0@0@669
+77@16@771@Eternal Wings@170@3000@S3@@182@184@0@0@177@1@GP@GP@181@200@0@1215|@6171@17@1@1651|@0@0@669
+80@1@854@Lightning Crusader@170@40000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1237|1238|1239|1240|1241|@7302@1@1@@0@508@669
+80@2@855@Lightning Illusion@170@40000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1242|1243|1244|1245|1246|@7302@1@1@@0@508@669
+80@3@856@Lightning Alchemist@170@40000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1247|1248|1249|1250|1251|@7302@1@1@@0@508@669
+80@4@859@Lightning Lemuria@170@40000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1428|1429|1430|1431|1432|@7302@1@1@@0@508@669
+80@5@858@Lightning Light Wizard@170@40000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1252|1253|1254|1255|1256|@7302@1@1@@0@508@669
+80@6@857@Lightning Gun@170@40000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1257|1258|1259|1260|1261|@7302@1@1@@0@508@669
+80@7@860@Lightning DK ENE@170@40000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1262|1263|1264|1265|1266|@7302@1@1@@0@508@669
+80@8@861@Lightning DK STR@170@40000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1267|1268|1269|1270|1271|@7302@1@1@@0@508@669
+80@9@862@Lightning Slayer@170@40000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1272|1273|1274|1275|1276|@7302@1@1@@0@508@669
+80@10@867@Lightning Rune@170@40000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1277|1278|1279|1280|1281|@7302@1@1@@0@508@669
+80@11@866@Lightning Magic ENE@170@40000@@@182@184@0@0@176@4@W Coin@W Coin@181@200@0@1282|1283|1284|1285|@7302@1@1@@0@508@669
+80@12@865@Lightning Elf ENE@170@40000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1286|1287|1288|1289|1290|@7302@1@1@@0@508@669
+80@13@868@Lightning Lancer@170@40000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1291|1292|1293|1294|1295|@7302@2@1@@0@508@669
+80@14@869@Lightning Fighter@170@40000@@@182@184@0@0@176@4@W Coin@W Coin@181@200@0@1296|1297|1298|1299|@7302@1@1@@0@508@669
+80@15@864@Lightning Lord@170@40000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1309|1310|1312|1311|1313|@7302@1@1@@0@508@669
+80@16@871@Lightning Magic STR@170@40000@@@182@184@0@0@176@4@W Coin@W Coin@181@200@0@1314|1315|1316|1317|@7302@1@1@@0@508@669
+80@17@870@Lightning Summoner@170@40000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1318|1319|1320|1321|1322|@7302@1@1@@0@508@669
+80@18@863@Lightning Elf Agi@170@40000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1323|1324|1325|1326|1327|@7302@1@1@@0@508@669
+80@19@895@Lightning Wizard@170@40000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1328|1329|1330|1331|1332|@7302@1@1@@0@508@669
+81@1@799@Genius Wings@170@5000@NO DISPONIBLE#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1339|@6560@1@1@1789|@0@508@669
+81@2@800@Angel Wings@170@5000@NO DISPONIBLE#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1340|@6558@1@1@1791|@0@508@669
+81@3@801@Devil Wings@170@5000@NO DISPONIBLE#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1341|@6559@1@1@1793|@0@508@669
+81@4@802@Destruction Wings@170@5000@NO DISPONIBLE#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1342|@6561@1@1@1795|@0@508@669
+81@5@803@Control Wings@170@5000@NO DISPONIBLE#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1343|@6562@1@1@1797|@0@508@669
+81@6@804@Eternal Wings@170@5000@NO DISPONIBLE#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1344|@6563@1@1@1799|@0@508@669
+81@7@805@Judgment Cloak@170@5000@NO DISPONIBLE#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1345|@6564@1@1@1801|@0@508@669
+81@8@806@Eternity Cloak@170@5000@NO DISPONIBLE#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1346|@6565@1@1@1803|@0@508@669
+81@9@807@Wings of Fate@170@5000@NO DISPONIBLE#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1347|@6613@1@1@1805|@0@508@669
+81@10@808@Wings of Condemnation@170@5000@NO DISPONIBLE#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1348|@6618@1@1@1807|@0@508@669
+81@11@809@Blood Wings@170@5000@NO DISPONIBLE#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1349|@6634@1@1@1809|@0@508@669
+81@12@810@Cloak of Brilliance@170@5000@NO DISPONIBLE#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1350|@6304@1@1@1811|@0@508@669
+81@13@811@Storm's Wings@170@5000@NO DISPONIBLE#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1351|@6296@1@1@1813|@0@508@669
+81@14@812@Cloak of Hatred@170@5000@NO DISPONIBLE#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1352|@6322@1@1@1815|@0@508@669
+81@15@813@Wings of Purity@170@5000@NO DISPONIBLE#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1353|@6340@1@1@1817|@0@508@669
+81@16@814@Cloak of Sanctuary@170@5000@NO DISPONIBLE#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1354|@10755@1@1@1819|@0@508@669
+82@1@877@Temple Guard Crusader@170@45000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1095|1096|1097|1098|1099|@7302@1@1@@0@508@669
+82@2@875@Temple Guard Illusion@170@45000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1104|1105|1106|1107|1108|@7302@1@1@@0@508@669
+82@3@876@Temple Guard Alchemist@170@45000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1427|1423|1424|1425|1426|@7302@1@1@@0@508@669
+82@4@878@Temple Guard Lemuria@170@45000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1127|1128|1129|1130|1131|@7302@1@1@@0@508@669
+82@5@879@Temple Guard Kundun@170@45000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1132|1133|1134|1135|1136|@7302@1@1@@0@508@669
+82@6@880@Temple Guard Gun@170@45000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1137|1138|1139|1140|1141|@7302@1@1@@0@508@669
+82@7@883@Temple Guard DK ENE@170@45000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1142|1143|1144|1145|1146|@7302@1@1@@0@508@669
+82@8@882@Temple Guard DK STR@170@45000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1147|1148|1149|1150|1151|@7302@1@1@@0@508@669
+82@9@881@Temple Guard Slayer@170@45000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1152|1153|1154|1155|1156|@7302@1@1@@0@508@669
+82@10@892@Temple Guard Rune@170@45000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1157|1158|1159|1161|1160|@7302@1@1@@0@508@669
+82@11@891@Temple Guard Magic ENE@170@45000@Set Full@@182@184@0@0@176@4@W Coin@W Coin@181@200@0@1162|1163|1164|1165|@7302@1@1@@0@508@669
+82@12@890@Temple Guard Elf ENE@170@45000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1166|1167|1168|1169|1170|@7302@1@1@@0@508@669
+82@13@887@Temple Guard Lancer@170@45000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1171|1172|1173|1174|1175|@7302@1@1@@0@508@669
+82@14@888@Temple Guard Fighter@170@45000@Set Full@@182@184@0@0@176@4@W Coin@W Coin@181@200@0@1176|1177|1178|1179|@7302@1@1@@0@508@669
+82@15@889@Temple Guard Lord@170@45000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1180|1181|1182|1183|1184|@7302@1@1@@0@508@669
+82@16@886@Temple Guard Magic STR@170@45000@Set Full@@182@184@0@0@176@4@W Coin@W Coin@181@200@0@1185|1186|1187|1188|@7302@1@1@@0@508@669
+82@17@885@Temple Guard Summoner@170@45000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1318|1319|1320|1321|1322|@7302@1@1@@0@508@669
+82@18@884@Temple Guard Elf Agi@170@45000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1194|1195|1196|1197|1198|@7302@1@1@@0@508@669
+82@19@893@Temple Guard Wizard@170@45000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1199|1200|1201|1202|1203|@7302@1@1@@0@508@669
+84@1@896@Apocalypse Crusader@170@30000@Set Full@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1391|1392|1393|1394|1395|@7302@1@1@@0@508@669
+84@2@897@Apocalypse Illusion@170@30000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1396|1397|1398|1399|1400|@7302@1@1@@0@508@669
+84@3@898@Apocalypse Alchemist@170@30000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1494|1493|1492|1491|1490|@7302@1@1@@0@508@669
+84@4@901@Apocalypse Lemuria@170@30000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1495|1496|1497|1498|1499|@7302@1@1@@0@508@669
+84@5@900@Apocalypse Kundun@170@30000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1500|1501|1502|1503|1504|@7302@1@1@@0@508@669
+84@6@899@Apocalypse Gun@170@30000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1509|1508|1507|1506|1505|@7302@1@1@@0@508@669
+84@7@902@Apocalypse DK ENE@170@30000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1515|1516|1517|1518|1519|@7302@1@1@@0@508@669
+84@8@903@Apocalypse DK STR@170@30000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1520|1521|1522|1523|1524|@7302@1@1@@0@508@669
+84@9@904@Apocalypse Slayer@170@30000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1525|1526|1527|1528|1529|@7302@1@1@@0@508@669
+84@10@913@Apocalypse Rune@170@30000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1534|1533|1532|1531|1530|@7302@1@1@@0@508@669
+84@11@908@Apocalypse Magic ENE@170@30000@@@182@184@0@0@176@4@W Coin@W Coin@181@200@0@1538|1537|1536|1535|@7302@1@1@@0@508@669
+84@12@907@Apocalypse Elf ENE@170@30000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1543|1542|1541|1540|1539|@7302@1@1@@0@508@669
+84@13@912@Apocalypse Lancer@170@30000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1548|1544|1545|1546|1547|@7302@1@1@@0@508@669
+84@14@909@Apocalypse Fighter@170@30000@@@182@184@0@0@176@4@W Coin@W Coin@181@200@0@1549|1550|1551|1552|@7302@1@1@@0@508@669
+84@15@906@Apocalypse Lord@170@30000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1553|1554|1555|1556|1557|@7302@1@1@@0@508@669
+84@16@911@Apocalypse Magic STR@170@30000@@@182@184@0@0@176@4@W Coin@W Coin@181@200@0@1558|1559|1560|1561|@7302@1@1@@0@508@669
+84@17@910@Apocalypse Summoner@170@30000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1562|1563|1564|1565|1566|@7302@1@1@@0@508@669
+84@18@905@Apocalypse Elf AGI@170@30000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1567|1568|1569|1570|1571|@7302@1@1@@0@508@669
+84@19@914@Apocalypse Wizard@170@30000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1572|1573|1574|1575|1576|@7302@1@1@@0@508@669
+85@1@915@Brilliant Crusader@170@20000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1581|1580|1579|1578|1577|@7302@1@1@@0@508@669
+85@2@916@Brilliant Illusion@170@20000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1586|1585|1584|1583|1582|@7302@1@1@@0@508@669
+85@3@917@Brilliant Alchemist@170@20000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1591|1590|1589|1588|1587|@7302@1@1@@0@508@669
+85@4@920@Brilliant Lemuria@170@20000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1602|1603|1604|1605|1606|@7302@1@1@@0@508@669
+85@5@919@Brilliant Kundun@170@20000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1607|1608|1609|1610|1611|@7302@1@1@@0@508@669
+85@6@918@Brilliant Gun@170@20000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1612|1613|1614|1615|1616|@7302@1@1@@0@508@669
+85@7@921@Brilliant DK ENE@170@20000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1617|1618|1619|1620|1621|@7302@1@1@@0@508@669
+85@8@922@Brilliant DK STR@170@20000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1622|1623|1624|1625|1626|@7302@1@1@@0@508@669
+85@9@923@Brilliant Slayer@170@20000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1631|1627|1628|1629|1630|@7302@1@1@@0@508@669
+85@10@932@Brilliant Rune@170@20000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1632|1633|1634|1635|1636|@7302@1@1@@0@508@669
+85@11@927@Brilliant Magic ENE@170@20000@@@182@184@0@0@176@4@W Coin@W Coin@181@200@0@1637|1638|1639|1640|@7302@1@1@@0@508@669
+85@12@926@Brilliant Elf ENE@170@20000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1641|1642|1643|1644|1645|@7302@1@1@@0@508@669
+85@13@931@Brilliant Lancer@170@20000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1651|1652|1653|1654|1655|@7302@1@1@@0@508@669
+85@14@928@Brilliant Fighter@170@20000@@@182@184@0@0@176@4@W Coin@W Coin@181@200@0@1656|1657|1658|1659|@7302@1@1@@0@508@669
+85@15@925@Brilliant Lord@170@20000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1660|1661|1662|1663|1664|@7302@1@1@@0@508@669
+85@16@930@Brilliant Magic STR@170@20000@@@182@184@0@0@176@4@W Coin@W Coin@181@200@0@1665|1666|1667|1668|@7302@1@1@@0@508@669
+85@17@929@Brilliant Summoner@170@20000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1669|1670|1671|1672|1673|@7302@1@1@@0@508@669
+85@18@924@Brilliant Elf AGI@170@20000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1674|1675|1676|1677|1678|@7302@1@1@@0@508@669
+85@19@933@Brilliant Wizard@170@20000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1679|1680|1681|1682|1683|@7302@1@1@@0@508@669
+86@1@934@Manticore Crusader@170@15000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1688|1687|1686|1685|1684|@7302@1@1@@0@508@669
+86@2@939@Manticore Illusion@170@15000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1693|1692|1691|1690|1689|@7302@1@1@@0@508@669
+86@3@940@Manticore Alchemist@170@15000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1698|1697|1696|1695|1694|@7302@1@1@@0@508@669
+86@4@935@Manticore Lemuria@170@15000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1699|1700|1701|1702|1703|@7302@1@1@@0@508@669
+86@5@938@Manticore Kundun@170@15000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1704|1705|1706|1707|1708|@7302@1@1@@0@508@669
+86@6@941@Manticore Gun@170@15000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1709|1710|1711|1712|1713|@7302@1@1@@0@508@669
+86@7@936@Manticore DK ENE@170@15000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1714|1715|1716|1717|1718|@7302@1@1@@0@508@669
+86@8@937@Manticore DK STR@170@15000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1719|1720|1721|1722|1723|@7302@1@1@@0@508@669
+86@9@942@Manticore Slayer@170@15000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1728|1727|1726|1725|1724|@7302@1@1@@0@508@669
+86@10@947@Manticore Rune@170@15000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1733|1732|1731|1730|1729|@7302@1@1@@0@508@669
+86@11@946@Manticore Magic ENE@170@15000@@@182@184@0@0@176@4@W Coin@W Coin@181@200@0@1737|1736|1735|1734|@7302@1@1@@0@508@669
+86@12@945@Manticore Elf ENE@170@15000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1742|1741|1740|1739|1738|@7302@1@1@@0@508@669
+86@13@948@Manticore Lancer@170@15000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1743|1744|1745|1746|1747|@7302@1@1@@0@508@669
+86@14@949@Manticore Fighter@170@15000@@@182@184@0@0@176@4@W Coin@W Coin@181@200@0@1748|1749|1750|1751|@7302@1@1@@0@508@669
+86@15@944@Manticore Lord@170@15000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1752|1753|1754|1755|1756|@7302@1@1@@0@508@669
+86@16@951@Manticore Magic STR@170@15000@@@182@184@0@0@176@4@W Coin@W Coin@181@200@0@1767|1768|1769|1770|@7302@1@1@@0@508@669
+86@17@950@Manticore Summoner@170@15000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1757|1758|1759|1760|1761|@7302@1@1@@0@508@669
+86@18@943@Manticore Elf AGI@170@15000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1762|1763|1764|1765|1766|@7302@1@1@@0@508@669
+86@19@952@Manticore Wizard@170@15000@@@182@184@0@0@176@5@W Coin@W Coin@181@200@0@1775|1774|1773|1772|1771|@7302@1@1@@0@508@669
