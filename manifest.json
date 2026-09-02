@@ -1,8 +1,38 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-02T16:54:56.431539+00:00",
+  "generated_at": "2026-09-02T16:55:26.065616+00:00",
   "base_url": "https://cdn.jsdelivr.net/gh/Tiinita/MU-UPDATE@main/",
   "files": [
+    {
+      "path": "Data/InGameShopScript/512.2014.124/IBSCategory.txt",
+      "size": 839,
+      "sha256": "9d010bf5d0ae308721007810435eadc7b58478e0c5661efc04b1856ea3f9dd87",
+      "url": "https://cdn.jsdelivr.net/gh/Tiinita/MU-UPDATE@main/Data/InGameShopScript/512.2014.124/IBSCategory.txt"
+    },
+    {
+      "path": "Data/InGameShopScript/512.2014.124/IBSPackage.txt",
+      "size": 49030,
+      "sha256": "99b4eb2067af2899931c8d1e80b29c66fa0b56da435732b93175b7763a5629f4",
+      "url": "https://cdn.jsdelivr.net/gh/Tiinita/MU-UPDATE@main/Data/InGameShopScript/512.2014.124/IBSPackage.txt"
+    },
+    {
+      "path": "Data/InGameShopScript/512.2014.124/IBSProduct.txt",
+      "size": 135709,
+      "sha256": "a6211d88444b4796120fa0dbefca4837baaf63021a3cbcce176a4f9863e3d287",
+      "url": "https://cdn.jsdelivr.net/gh/Tiinita/MU-UPDATE@main/Data/InGameShopScript/512.2014.124/IBSProduct.txt"
+    },
+    {
+      "path": "Data/Lang.mpr",
+      "size": 408479,
+      "sha256": "6ed1aafeb3c767b2c8c1cba5a3f7707d26bb7568ae353f389f0d5a78c6c12618",
+      "url": "https://cdn.jsdelivr.net/gh/Tiinita/MU-UPDATE@main/Data/Lang.mpr"
+    },
+    {
+      "path": "Data/Local/item.bmd",
+      "size": 3466376,
+      "sha256": "77a5962558235936400a11d7dac025ac5d09917d2e83192b57625530e3ae97c8",
+      "url": "https://cdn.jsdelivr.net/gh/Tiinita/MU-UPDATE@main/Data/Local/item.bmd"
+    },
     {
       "path": "news.json",
       "size": 129,
