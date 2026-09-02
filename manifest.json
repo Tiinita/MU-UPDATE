@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-02T18:18:51.771746+00:00",
+  "generated_at": "2026-09-02T18:22:36.140278+00:00",
   "base_url": "https://cdn.jsdelivr.net/gh/Tiinita/MU-UPDATE@main/",
   "files": [
     {
@@ -20,6 +20,12 @@
       "size": 135709,
       "sha256": "a6211d88444b4796120fa0dbefca4837baaf63021a3cbcce176a4f9863e3d287",
       "url": "https://cdn.jsdelivr.net/gh/Tiinita/MU-UPDATE@main/Data/InGameShopScript/512.2014.124/IBSProduct.txt"
+    },
+    {
+      "path": "Data/Lang.mpr",
+      "size": 525719,
+      "sha256": "77c3b4b7e8781a844984195030fec9361b2b2266ee282599e293527845420866",
+      "url": "https://cdn.jsdelivr.net/gh/Tiinita/MU-UPDATE@main/Data/Lang.mpr"
     },
     {
       "path": "Data/Local/item.bmd",
