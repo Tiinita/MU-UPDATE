@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-02T15:08:15.983390+00:00",
+  "generated_at": "2026-09-02T15:49:46.343595+00:00",
   "base_url": "https://cdn.jsdelivr.net/gh/Tiinita/MU-UPDATE@main/",
   "files": [
     {
@@ -14,6 +14,12 @@
       "size": 2265,
       "sha256": "9c40d2cd3dc9fbc380ee434ecc1e9b50a1efdadd077a68615a0fdf156f2a7562",
       "url": "https://cdn.jsdelivr.net/gh/Tiinita/MU-UPDATE@main/Data/Local/DailyReward.xml"
+    },
+    {
+      "path": "news.json",
+      "size": 129,
+      "sha256": "c6172180d35093a9ec1bab7d177446b06c012f1c865884578fe83d325eb07f0c",
+      "url": "https://cdn.jsdelivr.net/gh/Tiinita/MU-UPDATE@main/news.json"
     }
   ]
 }
