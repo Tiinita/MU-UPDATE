@@ -1,0 +1,71 @@
+name: Publish MU client manifest (jsDelivr)
+
+# Este workflow va en el repositorio del CLIENTE (ej. Tiinita/MU-UPDATE),
+# no en el repositorio del launcher. Ver GUIA_JSDELIVR.md.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-manifest
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      OWNER_REPO_REF: ${{ github.repository }}@${{ github.ref_name }}
+    steps:
+      - name: Checkout client repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Determine files changed in this push
+        run: |
+          BEFORE="${{ github.event.before }}"
+          AFTER="${{ github.event.after }}"
+          if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            EMPTY_TREE=$(git hash-object -t tree /dev/null)
+            git diff --name-only "$EMPTY_TREE" "$AFTER" > changed_files.txt
+          else
+            git diff --name-only "$BEFORE" "$AFTER" > changed_files.txt
+          fi
+          echo "Archivos modificados en este push:"
+          cat changed_files.txt
+
+      - name: Generate manifest
+        run: |
+          python tools/build_manifest.py \
+            --root . \
+            --output manifest.json \
+            --base-url "https://cdn.jsdelivr.net/gh/${OWNER_REPO_REF}"
+
+      - name: Commit manifest.json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- manifest.json; then
+            git add manifest.json
+            git commit -m "chore: actualizar manifest.json"
+            git push
+          else
+            echo "manifest.json sin cambios"
+          fi
+
+      - name: Purge jsDelivr cache
+        run: |
+          python tools/purge_jsdelivr.py \
+            --owner-repo-ref "$OWNER_REPO_REF" \
+            --file manifest.json \
+            --list changed_files.txt
