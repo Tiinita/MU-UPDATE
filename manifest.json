@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-02T16:57:44.795983+00:00",
+  "generated_at": "2026-09-02T17:16:25.752413+00:00",
   "base_url": "https://cdn.jsdelivr.net/gh/Tiinita/MU-UPDATE@main/",
   "files": [
     {
@@ -23,8 +23,8 @@
     },
     {
       "path": "Data/Lang.mpr",
-      "size": 408479,
-      "sha256": "6ed1aafeb3c767b2c8c1cba5a3f7707d26bb7568ae353f389f0d5a78c6c12618",
+      "size": 525719,
+      "sha256": "77c3b4b7e8781a844984195030fec9361b2b2266ee282599e293527845420866",
       "url": "https://cdn.jsdelivr.net/gh/Tiinita/MU-UPDATE@main/Data/Lang.mpr"
     },
     {
