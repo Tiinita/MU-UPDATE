@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-02T18:22:36.140278+00:00",
+  "generated_at": "2026-09-03T13:36:10.658162+00:00",
   "base_url": "https://cdn.jsdelivr.net/gh/Tiinita/MU-UPDATE@main/",
   "files": [
     {
@@ -32,12 +32,6 @@
       "size": 3466376,
       "sha256": "77a5962558235936400a11d7dac025ac5d09917d2e83192b57625530e3ae97c8",
       "url": "https://cdn.jsdelivr.net/gh/Tiinita/MU-UPDATE@main/Data/Local/item.bmd"
-    },
-    {
-      "path": "news.json",
-      "size": 253,
-      "sha256": "1f37cbf8786794f51a41e5b7896d5f70e88d427d3c493b79559d08e33fa6905d",
-      "url": "https://cdn.jsdelivr.net/gh/Tiinita/MU-UPDATE@main/news.json"
     }
   ]
 }
