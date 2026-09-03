@@ -29,6 +29,7 @@ DEFAULT_EXCLUDES = {
     "build.bat",
     "main.py",
     "changed_files.txt",
+    "news.json",
 }
 
 
